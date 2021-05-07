@@ -1,16 +1,10 @@
 {
   "hosting": {
-    "public": "dist/one-mission",
+    "public": "one-mission",
     "ignore": [
       "firebase.json",
       "**/.*",
       "**/node_modules/**"
-    ],
-    "rewrites": [
-      {
-        "source": "**",
-        "destination": "/index.html"
-      }
     ]
   }
 }
