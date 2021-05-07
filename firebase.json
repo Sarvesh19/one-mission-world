@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "public": "one-mission",
+    "public": "dist/one-mission",
     "ignore": [
       "firebase.json",
       "**/.*",
