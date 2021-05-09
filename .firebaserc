@@ -1,5 +1,14 @@
 {
   "projects": {
     "default": "one-mission-world"
+  },
+  "targets": {
+    "one-mission-world": {
+      "hosting": {
+        "pk2-angular": [
+          "one-mission-world"
+        ]
+      }
+    }
   }
 }
